@@ -97,6 +97,23 @@ terraform destroy
 * Add monitoring and alerting
 * Improve security using NSGs and Key Vault
 
+
+
+## Project Structure
+
+![Treelike directory structure for Terraform Azure 3-tier project showing main.tf provider.tf variables.tf output.tf README.md and modules/vm contents](./screenshots/project-structure.png)
+
+## Virtual Network
+
+![Azure virtual network topology screenshot showing VNet and subnet layout in a cloud infrastructure environment](./screenshots/vnet.png)
+
+## Virtual Machine Deployment
+
+![Azure portal view of deployed Linux web virtual machine named web-vm showing VM status and configuration details](./screenshots/web-vm.png)
+
+## Azure Resource Group Resources
+
+![Azure portal resource group details showing deployed resources under the 3tier-rg resource group](./screenshots/resource-group.png)
 ## Author
 
 Shiva Rawal
